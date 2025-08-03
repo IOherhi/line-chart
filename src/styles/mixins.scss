@@ -1,0 +1,12 @@
+@mixin onTablet() {
+  @media (min-width: '840px') {
+    @content
+  }
+}
+
+@mixin onDeck() {
+  @media (min-width: '1284px') {
+    @content
+  }
+}
+
