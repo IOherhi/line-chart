@@ -1,5 +1,6 @@
 A React application for visualizing experiment metrics (accuracy, loss) from CSV files.
 
+## DEMO : https://ioherhi.github.io/line-chart/
 
 
 ## Key Features
@@ -25,3 +26,5 @@ A React application for visualizing experiment metrics (accuracy, loss) from CSV
 
 # Start the local development server:
   npm start
+
+
